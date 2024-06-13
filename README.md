@@ -32,7 +32,7 @@ If you get a virus warning, click on "More Info" and then "Run Anyway"
 ![Vantage](/path/to/screenshot.png)
 
 ## Author
-Your Name - [PxslGames](https://github.com/pxslgames)
+[PxslGames](https://github.com/pxslgames)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
