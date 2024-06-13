@@ -29,7 +29,7 @@ If you get a virus warning, click on "More Info" and then "Run Anyway"
 
 
 ## Screenshots
-![Vantage](C:/Users/kianj/Pictures/Pictures/Random Stuff/Screenshot 2024-06-13 181046.png)
+![Vantage](C:/Users//Pictures/Pictures/Random Stuff/Screenshot 2024-06-13 181046.png)
 
 ## Author
 [PxslGames](https://github.com/pxslgames)
