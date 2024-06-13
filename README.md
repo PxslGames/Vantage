@@ -27,9 +27,8 @@ If you get a virus warning, click on "More Info" and then "Run Anyway"
 3. SetChannel - Sets the Channel ID
 4. Purge - Deletes a set number of messages
 
-
 ## Screenshots
-![Vantage](C:/Users//Pictures/Pictures/Random Stuff/Screenshot 2024-06-13 181046.png)
+![Screenshot 2024-06-13 181046](https://github.com/PxslGames/Vantage/assets/151259803/96d82ba6-eb97-4b41-9f0e-f4a119364342)
 
 ## Author
 [PxslGames](https://github.com/pxslgames)
