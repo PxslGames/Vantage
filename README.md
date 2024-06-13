@@ -1,0 +1,2 @@
+# Vantage
+A Discord Tool
