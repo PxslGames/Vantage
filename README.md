@@ -18,7 +18,7 @@ This is **Vantage** A discord multitool.
 If you get a virus warning, click on "More Info" and then "Run Anyway"
 
 ## Usage
-- **Before anything, use the "SetChannel" command to set the Channel ID!
+- **Before anything, use the "SetChannel" command to set the Channel ID!**
 - Now, type the name of the command, and watch chaos happen in Discord!
 
 ## Commands
